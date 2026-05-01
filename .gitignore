@@ -24,6 +24,7 @@ data/predictions/
 data/reports/*.html
 data/reports/*.png
 data/historical/
+data/dlt/
 data/features.csv
 
 # OS
